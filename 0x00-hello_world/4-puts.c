@@ -2,7 +2,7 @@
 
 /**
  * main - print statement
- * Return: 0 if exit probsbly 
+ * Return: 0 if exit probsbly
  */
 int main(void)
 {
