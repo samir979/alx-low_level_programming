@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - print 16 base alphabet
  * Return: 0 if exit probably
  */
