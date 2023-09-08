@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print chars
- * Retutn: 0 if exit probably 0 Sucess
+ * Return: 0 if exit probably 0 Sucess
  */
 
 int main(void)
