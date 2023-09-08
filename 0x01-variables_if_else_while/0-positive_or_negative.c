@@ -1,9 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ * main - print positive or negetive
+ * Return: 0 if exit probably
+ * /
 int main(void)
 {
 	int n;
@@ -22,7 +23,5 @@ int main(void)
 		{
 			printf("%d is zero\n", n);
 		}
-
-	/* your code goes there */
 	return (0);
 }
