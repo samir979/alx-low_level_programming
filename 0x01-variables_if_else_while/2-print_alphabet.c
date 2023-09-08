@@ -3,6 +3,7 @@
  * main - print chars
  * Retutn: 0 if exit probably
  */
+
 int main(void)
 {
 	char c;
