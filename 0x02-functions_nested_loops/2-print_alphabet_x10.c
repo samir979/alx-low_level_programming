@@ -3,7 +3,7 @@
  * 2-print_alphabet_x10.c - print letters 10 times
  *
  */
-void print_alphabet_x10.c(void)
+void print_alphabet_x10(void)
 {
 	char c;
 	int i;
