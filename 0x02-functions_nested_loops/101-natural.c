@@ -1,5 +1,6 @@
 #include "main.h"
-/** sumr - returns the sum of numbers
+/** 
+ * sumr - returns the sum of numbers
  * @st: first number
  * @last: last number
  * @step: numer of steps
