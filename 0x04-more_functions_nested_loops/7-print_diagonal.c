@@ -5,6 +5,7 @@
  * @n: number of spaces
  * Return: void
  */
+
 void print_diagonal(int n)
 {
 	int r, numline;
