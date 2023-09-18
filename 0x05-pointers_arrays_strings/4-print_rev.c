@@ -20,8 +20,7 @@ void print_rev(char *s)
 {
 	int size = _strlen(s);
 
-	while(size--)
+	while (size--)
 		_putchar(*(s + size));
 	_putchar('\n');
 }
-	
