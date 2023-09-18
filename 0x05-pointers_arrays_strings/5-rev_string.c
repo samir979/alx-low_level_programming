@@ -26,7 +26,7 @@ void rev_string(char *s)
 	int counter = 0;
 	char tmp;
 
-	while (counter < len /2)
+	while (counter < len / 2)
 	{
 		tmp = *(s + counter);
 		*(s + counter) = *(s + len - 1 - counter);
