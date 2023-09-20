@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * reverse_array - print reverse array
- * @a: ARRAY TO BE COMPARED
+ * @a: array to be compared
  * @n: size of array
  * Return: reversed array
  */
