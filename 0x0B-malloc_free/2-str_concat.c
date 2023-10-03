@@ -17,6 +17,7 @@ int _strlen(char *s)
 /**
  * _strncat - conctanenate string woth bytes
  * @src: source of string
+ * @dest: destination string
  * @n: integer size of bytes
  * Return: dest
  */
